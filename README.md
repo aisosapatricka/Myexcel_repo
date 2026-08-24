@@ -57,3 +57,12 @@ The work is split across several linked exercises:
 ## About this project
 
 This project forms part of the Data Technician pathway, building foundational Excel skills ahead of moving on to SQL, Python, Power BI and Tableau within the same bootcamp.
+
+
+
+<img width="827" height="509" alt="image" src="https://github.com/user-attachments/assets/40c95b74-21f6-4f04-aff8-87c378c923d3" />
+<img width="691" height="372" alt="image" src="https://github.com/user-attachments/assets/a7ec315a-5eb2-4bec-b5ac-55e67a94f783" />
+<img width="691" height="269" alt="image" src="https://github.com/user-attachments/assets/f5f8b784-08df-4af6-81e5-88c4ae82dfee" />
+
+
+
